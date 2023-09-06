@@ -1,0 +1,36 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+
+.container
+{
+    text-align: center;
+}
+
+label
+{
+    padding-bottom: 5px;
+    padding-left: 55px;
+    display: block;
+    text-align: left;
+}
+
+input 
+{
+    box-sizing: border-box;
+    padding: 2px;   
+    width: 400px;
+}
+
